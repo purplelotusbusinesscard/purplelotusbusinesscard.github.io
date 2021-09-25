@@ -1,0 +1,105 @@
+/*Start video style*/
+.product-slider-wrap {
+    .slick-slider {
+        margin: 0 -15px;
+    }
+    .slick-slide {
+        padding: 10px;
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+    .single-product-slider {
+        position: relative;
+        background-color: #DCDCDC;
+        text-align: center;
+        border-radius: 5px;
+        display: inline-block;
+        padding: 15px 20px;
+        transition: 0.3s;
+        margin-bottom: 30px;
+        img{
+            margin: auto;
+        }
+        .product-slide-btn {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translateX(-50%) translateY(-50%) scale(0.1);
+            opacity: 0;
+            visibility: hidden;
+            transition: 0.3s;
+            a {
+                color: #ffffff;
+                background-color: #C065DE;
+                padding: 10px 20px;
+                font-weight: 600;
+                text-transform: uppercase;
+                &:hover {
+                background-color: #FEAC01;
+                }
+            }
+        }
+        &:hover {
+            .product-slide-btn {
+                opacity: 1;
+                visibility: visible;
+                transform: scale(1) translateX(-50%) translateY(-50%);
+            }
+            background-color: #FFF5F5;
+        }
+    }
+}
+/*Product range slider*/
+.widget-product-sorting {
+    margin-top: 25px;
+    .slider-product-sorting {
+        height: 4px;
+        border-radius: 0;
+        background: #E4E7EB;
+        border: 0 !important;
+        margin: 0 10px 20px 10px;
+        .ui-slider-range {
+            background-color: #FEAC01;
+            height: 4px;
+        }
+        .ui-slider-handle {
+            height: 15px;
+            width: 15px;
+            border-radius: 0%;
+            background-color: #3C368C;
+            border: 0 !important;
+            top: -6px;
+            cursor: pointer;
+            border-radius: 50%;
+        }
+    }
+    label {
+        font-size: 15px;
+        letter-spacing: 0.15px;
+        color: #FEAC01;
+        border: 0;
+        background: transparent;
+        margin-bottom: 0;
+        line-height: 1;
+        &:focus {
+            border: 0;
+        }
+    }
+    input {
+        font-size: 15px;
+        letter-spacing: 0.15px;
+        color: #3C368C;
+        border: 0;
+        background: transparent;
+        margin-bottom: 0;
+        line-height: 1;
+        &:focus {
+            border: 0;
+        }
+    }
+    button {
+        &:focus {
+            outline: 0;
+        }
+    }
+}
