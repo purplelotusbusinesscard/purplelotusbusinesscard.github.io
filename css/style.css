@@ -9,6 +9,14 @@ Version: 1.0.0
 */
 /* Sections*/
 /*Common style*/
+
+#content-desktop {display: none;}
+#content-mobile {display: block;}
+@media (max-aspect-ratio: 985/937) {
+#content-desktop {display: block;}
+#content-mobile {display: none;}
+}
+
 .section-title {
   padding-bottom: 30px;
 }
