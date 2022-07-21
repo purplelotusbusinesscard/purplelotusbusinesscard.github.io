@@ -68,7 +68,7 @@ Version: 1.0.0
   right: 0;
   bottom: 0;
   height: 100%;
-  background: #FEAC01;
+  background: #593087;
   z-index: -1;
   transform: translate3D(0, -100%, 0);
   transition: all 0.5s;
@@ -84,7 +84,7 @@ Version: 1.0.0
   right: 0;
   bottom: 0;
   height: 100%;
-  background: #FEAC01;
+  background: #593087;
   z-index: -1;
   transform: translate3D(0, -100%, 0);
   transition: all 0.5s;
@@ -98,7 +98,7 @@ Version: 1.0.0
 }
 
 .buttonfx.angleindouble.color-1 i {
-  color: #FEAC01;
+  color: #593087;
 }
 .buttonfx.angleindouble.color-1:hover i {
   color: #ffffff;
@@ -122,7 +122,7 @@ button.buttonfx.angleindouble.color-1 {
 }
 
 .angleindouble.color-2 {
-  background-color: #FEAC01;
+  background-color: #593087;
   color: #000000;
 }
 .angleindouble.color-2:hover {
@@ -146,7 +146,7 @@ button.buttonfx.angleindouble.color-1 {
   top: 0;
   left: 0;
   width: 150%;
-  background: #FEAC01;
+  background: #593087;
   transform-origin: 0 bottom;
   transform: translateX(-100%) rotate(-30deg);
 }
@@ -161,7 +161,7 @@ button.buttonfx.angleindouble.color-1 {
 
 /*Scroll Up*/
 #scrollUp {
-  background: #FEAC01;
+  background: #593087;
   border-radius: 5%;
   bottom: 75px;
   color: #fff;
@@ -223,10 +223,10 @@ nav.main-menu ul li a {
 }
 .main-meni-wrap .header-btn a.order-btn i {
   margin-right: 6px;
-  color: #FEAC01;
+  color: #593087;
 }
 .main-meni-wrap .header-btn a.order-btn:hover {
-  background-color: #FEAC01;
+  background-color: #593087;
 }
 .main-meni-wrap .header-btn a.order-btn:hover i {
   color: #ffffff;
@@ -296,7 +296,7 @@ nav.proone-nav {
   padding: 0;
 }
 .proone-nav .menu > li:hover > a {
-  color: #FEAC01;
+  color: #593087;
 }
 .proone-nav .menu > li:hover > ul {
   opacity: 1;
@@ -310,7 +310,7 @@ nav.proone-nav {
 }
 .proone-nav .menu > li ul {
   background-color: #C065DE;
-  border-top: 2px solid #FEAC01;
+  border-top: 2px solid #593087;
   opacity: 0;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   padding: 15px 0;
@@ -326,7 +326,7 @@ nav.proone-nav {
   padding: 5px 12px;
 }
 .proone-nav .menu > li > ul li a:hover {
-  color: #FEAC01;
+  color: #593087;
 }
 .proone-nav .menu > li > ul > li > ul {
   left: 100%;
@@ -453,13 +453,13 @@ header .col-3.col-md-9 {
 }
 .hero-discount h1 span {
   font-size: 35px;
-  color: #FEAC01;
+  color: #593087;
   right: 35px;
   position: absolute;
   bottom: 95px;
 }
 .hero-discount p {
-  color: #FEAC01;
+  color: #593087;
   text-transform: uppercase;
   line-height: 28px;
   letter-spacing: 2px;
@@ -567,7 +567,7 @@ header .col-3.col-md-9 {
   margin-right: 5px;
 }
 .banner-content ul li a:hover {
-  color: #FEAC01 !important;
+  color: #593087 !important;
 }
 .banner-content ul li i {
   position: relative;
@@ -732,7 +732,7 @@ header .col-3.col-md-9 {
   display: block;
 }
 .model-content a h3:hover {
-  color: #FEAC01;
+  color: #593087;
 }
 
 .model-wrap {
@@ -764,7 +764,7 @@ header .col-3.col-md-9 {
   display: block;
 }
 .model-order a:hover {
-  background-color: #FEAC01;
+  background-color: #593087;
 }
 .model-order a h5 {
   font-size: 14px;
@@ -779,7 +779,7 @@ header .col-3.col-md-9 {
 }
 
 .model-content h2 {
-  color: #FEAC01;
+  color: #593087;
   font-weight: 600;
 }
 .model-content h2 span {
@@ -802,7 +802,7 @@ header .col-3.col-md-9 {
 }
 .model-content ul li i {
   margin-right: 5px;
-  color: #FEAC01;
+  color: #593087;
 }
 
 .single-watch-model:hover .model-wrap {
@@ -890,7 +890,7 @@ header .col-3.col-md-9 {
 }
 .notification-content ul li i {
   margin-right: 7px;
-  color: #FEAC01;
+  color: #593087;
   font-weight: 700;
 }
 
@@ -941,7 +941,7 @@ header .col-3.col-md-9 {
   display: block;
   width: 50px;
   height: 50px;
-  background-color: #feac01;
+  background-color: #593087;
   text-align: center;
   border-radius: 50%;
   font-size: 36px;
@@ -1018,7 +1018,7 @@ header .col-3.col-md-9 {
 .video-right-img:hover::before {
   width: 100%;
   height: 20%;
-  border-color: #FEAC01;
+  border-color: #593087;
   transition: width 0.25s ease-out, height 0.25s ease-out 0.25s;
   height: 50%;
   border-color: #ffffff;
@@ -1026,7 +1026,7 @@ header .col-3.col-md-9 {
 .video-right-img:hover::after {
   width: 100%;
   height: 20%;
-  border-color: #FEAC01;
+  border-color: #593087;
   transition: border-color 0s ease-out 0.5s, width 0.25s ease-out 0.5s, height 0.25s ease-out 0.75s;
   height: 50%;
   border-color: #ffffff;
@@ -1110,14 +1110,14 @@ header .col-3.col-md-9 {
 .single-testimonial:hover::before {
   width: 100%;
   height: 20%;
-  border-color: #FEAC01;
+  border-color: #593087;
   transition: width 0.25s ease-out, height 0.25s ease-out 0.25s;
   height: 50%;
 }
 .single-testimonial:hover::after {
   width: 100%;
   height: 20%;
-  border-color: #FEAC01;
+  border-color: #593087;
   transition: border-color 0s ease-out 0.5s, width 0.25s ease-out 0.5s, height 0.25s ease-out 0.75s;
   height: 50%;
 }
@@ -1140,7 +1140,7 @@ header .col-3.col-md-9 {
 }
 .single-testimonial .testi-content ul li {
   display: inline-block;
-  color: #FEAC01;
+  color: #593087;
 }
 .single-testimonial .testi-content > i {
   font-size: 30px;
@@ -1217,10 +1217,10 @@ form.subscribe-form.watch button {
   transition: 0.3s;
 }
 form.subscribe-form.watch button i {
-  color: #FEAC01;
+  color: #593087;
 }
 form.subscribe-form.watch button:hover {
-  background-color: #FEAC01;
+  background-color: #593087;
 }
 form.subscribe-form.watch button:hover i {
   color: #ffffff;
@@ -1295,13 +1295,13 @@ form.subscribe-form.watch button:hover i {
 .single-pricing:hover::before {
   width: 100%;
   height: 20%;
-  border-color: #FEAC01;
+  border-color: #593087;
   transition: width 0.25s ease-out, height 0.25s ease-out 0.25s;
 }
 .single-pricing:hover::after {
   width: 100%;
   height: 20%;
-  border-color: #FEAC01;
+  border-color: #593087;
   transition: border-color 0s ease-out 0.5s, width 0.25s ease-out 0.5s, height 0.25s ease-out 0.75s;
 }
 .single-pricing h3.pricing-title {
@@ -1316,7 +1316,7 @@ form.subscribe-form.watch button:hover i {
 .single-pricing h1.price {
   font-size: 50px;
   font-weight: 600;
-  color: #FEAC01;
+  color: #593087;
   margin-bottom: 29px;
 }
 .single-pricing ul {
@@ -1368,7 +1368,7 @@ form.subscribe-form.watch button:hover i {
   text-transform: uppercase;
 }
 .product-slider-wrap .single-product-slider .product-slide-btn a:hover {
-  background-color: #FEAC01;
+  background-color: #593087;
 }
 .product-slider-wrap .single-product-slider:hover {
   background-color: #FFF5F5;
@@ -1391,7 +1391,7 @@ form.subscribe-form.watch button:hover i {
   margin: 0 10px 20px 10px;
 }
 .widget-product-sorting .slider-product-sorting .ui-slider-range {
-  background-color: #FEAC01;
+  background-color: #593087;
   height: 4px;
 }
 .widget-product-sorting .slider-product-sorting .ui-slider-handle {
@@ -1407,7 +1407,7 @@ form.subscribe-form.watch button:hover i {
 .widget-product-sorting label {
   font-size: 15px;
   letter-spacing: 0.15px;
-  color: #FEAC01;
+  color: #593087;
   border: 0;
   background: transparent;
   margin-bottom: 0;
@@ -1453,7 +1453,7 @@ th.theme {
 }
 
 th.price {
-  color: #FEAC01;
+  color: #593087;
   font-size: 22px;
   font-weight: 600;
 }
@@ -1641,7 +1641,7 @@ footer.footer-area:before {
   display: inline-block;
 }
 .widget.footer-menu ul li a:hover {
-  color: #FEAC01;
+  color: #593087;
   text-shadow: 0px 2px 2px rgba(255, 255, 255, 0.4);
 }
 .widget.footer-menu ul li a:before {
@@ -1681,7 +1681,7 @@ footer.footer-area:before {
   margin-right: 15px;
 }
 .footer-social ul li a:hover {
-  background-color: #FEAC01;
+  background-color: #593087;
 }
 
 /*Start video style 2*/
@@ -1757,7 +1757,7 @@ footer.footer-area.style-3 {
   display: inline-block;
 }
 .product-header-wrap .product-header ul li a:hover {
-  color: #FEAC01;
+  color: #593087;
 }
 .product-header-wrap .product-header form {
   float: left;
@@ -2008,7 +2008,7 @@ footer.footer-area.style-3 {
   text-align: center;
 }
 .quickview-action-wrap .quickview-wishlist a:hover {
-  color: #FEAC01;
+  color: #593087;
 }
 
 .quickview-quality .cart-plus-minus {
@@ -2110,7 +2110,7 @@ footer.footer-area.style-3 {
 }
 .product-review ul li {
   display: inline-block;
-  color: #FEAC01;
+  color: #593087;
 }
 
 .quickview-cart.button a {
@@ -2202,7 +2202,7 @@ ul.nav.product-color-menu {
   padding-bottom: 2px;
 }
 .product-related-slide .related-content h2 {
-  color: #FEAC01;
+  color: #593087;
 }
 .product-related-slide .related-content h2 span {
   color: #707070;
@@ -2436,7 +2436,7 @@ input.code-input.single-input {
   margin-top: 25px;
 }
 .single-news-wrap .entry-header h2:hover {
-  color: #FEAC01;
+  color: #593087;
 }
 .single-news-wrap .entry-meta {
   padding: 0 50px 13px 30px;
@@ -2512,7 +2512,7 @@ blockquote.wp-block-quote cite {
   transition: 0.3s;
 }
 .single-news-wrap.single-post .single-social ul li a:hover i {
-  color: #FEAC01;
+  color: #593087;
 }
 .single-news-wrap.single-post .single-social ul li:last-child a {
   margin-right: 0;
@@ -2561,7 +2561,7 @@ blockquote.wp-block-quote cite {
   margin-right: 5px;
 }
 .single-tags ul li a:hover {
-  color: #FEAC01;
+  color: #593087;
 }
 
 .single-author {
@@ -2575,7 +2575,7 @@ blockquote.wp-block-quote cite {
 }
 
 .widget-post i {
-  color: #FEAC01;
+  color: #593087;
   margin-right: 7px;
 }
 
